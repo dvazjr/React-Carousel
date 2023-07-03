@@ -1,11 +1,6 @@
 import { useState } from "react";
 import "./App.css";
 
-const cena1 = "https://media.giphy.com/media/12XNRtl6kZxQVq/giphy.gif";
-const cena2 = "https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif";
-const cena3 = "https://media.giphy.com/media/2isncUhJYr8vkMBkjy/giphy.gif";
-const cena4 = "https://media.giphy.com/media/Ym3AjvQQf4AfNZbvri/giphy.gif";
-const cena5 = "https://media.giphy.com/media/Vzku9jyuef09G/giphy.gif";
 const images = [
   {
     title: "Cena 1",
